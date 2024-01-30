@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "g1/YvxD71mAQidMP2HfeHJymArqJ47LTtG4s6IfxnGCwQwuNUvYWQO0rVmnbGlzLTYUUfXyPlbzxHwTgl4YEiA==",
+  "success": true,
+  "projectFilePath": "D:\\DevPratica\\Aula_TDD\\Aula_TDD\\Aula_TDD.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://cdtfs01.susepbr.local/tfs/SUSEP/_packaging/Feed_Susep/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
